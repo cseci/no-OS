@@ -1,0 +1,12 @@
+<map id="iio/iio.c" name="iio/iio.c">
+<area shape="rect" id="node1" title="Implementation of iio. This module implements read/write ops, required by libtinyiiod and further cal..." alt="" coords="207,5,272,32"/>
+<area shape="rect" id="node2" href="$da/dec/iio_8h.html" title="Header file of iio." alt="" coords="118,80,166,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,155,84,181"/>
+<area shape="rect" id="node7" title=" " alt="" coords="241,80,310,107"/>
+<area shape="rect" id="node8" href="$d8/d3c/util_8h.html" title="Implementation of utility functions." alt="" coords="223,155,277,181"/>
+<area shape="rect" id="node9" href="$da/d41/error_8h.html" title="Error codes definition." alt="" coords="334,80,398,107"/>
+<area shape="rect" id="node10" title=" " alt="" coords="423,80,491,107"/>
+<area shape="rect" id="node4" href="$d5/d0f/iio__types_8h.html" title="Header file for iio_types." alt="" coords="109,155,199,181"/>
+<area shape="rect" id="node5" title=" " alt="" coords="111,229,192,256"/>
+<area shape="rect" id="node6" title=" " alt="" coords="216,229,287,256"/>
+</map>

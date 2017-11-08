@@ -1,0 +1,6 @@
+<map id="ad9523_init_param" name="ad9523_init_param">
+<area shape="rect" id="node1" title=" " alt="" coords="51,184,197,211"/>
+<area shape="rect" id="node2" href="$d3/d31/structspi__init__param.html" title="Structure holding the parameters for SPI initialization." alt="" coords="5,95,120,121"/>
+<area shape="rect" id="node3" href="$da/d71/structad9523__platform__data.html" title="platform specific information" alt="" coords="145,95,311,121"/>
+<area shape="rect" id="node4" href="$dc/d16/structad9523__channel__spec.html" title="Output channel configuration." alt="" coords="146,5,310,32"/>
+</map>

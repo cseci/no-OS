@@ -1,0 +1,12 @@
+<map id="adxcfg_release_arbitration" name="adxcfg_release_arbitration">
+<area shape="rect" id="node1" title="adxcfg_release_arbitration" alt="" coords="829,71,1020,98"/>
+<area shape="rect" id="node2" href="$d1/d3c/altera__a10__cdr__pll_8h.html#ae16cfdb6dcf52acfad2cd4480144d642" title="altera_a10_cdr_pll_recalc_rate" alt="" coords="456,5,595,47"/>
+<area shape="rect" id="node4" href="$d1/d3c/altera__a10__cdr__pll_8h.html#acd3ba325a22ad7690f934b858087ce25" title="altera_a10_cdr_pll_set_rate" alt="" coords="643,64,781,105"/>
+<area shape="rect" id="node10" href="$d7/dd8/altera__adxcvr_8h.html#aecd3c23ef57fd83ab95939ea6322532d" title="xcvr_calib_tx" alt="" coords="661,130,763,157"/>
+<area shape="rect" id="node3" href="$d7/dd8/altera__adxcvr_8h.html#ad38d3c03f1f00faab758b63fbaf9794d" title="adxcvr_recalc_rate" alt="" coords="265,13,408,39"/>
+<area shape="rect" id="node5" href="$d7/dd8/altera__adxcvr_8h.html#a684db50fe066ad6dd6df4aac1cad609c" title="adxcvr_init" alt="" coords="463,71,587,98"/>
+<area shape="rect" id="node6" href="$dd/d90/axi__adxcvr_8h.html#a67ef0bb38e4648e42b5cfa3a7991c49c" title="adxcvr_init" alt="" coords="291,71,382,98"/>
+<area shape="rect" id="node7" href="$d2/d47/app__transceiver_8h.html#ab75f92d0fa79151108cc487cd7829c98" title=" " alt="" coords="108,46,217,73"/>
+<area shape="rect" id="node9" href="$d0/dcb/ad9208_2src_2main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title=" " alt="" coords="135,97,190,123"/>
+<area shape="rect" id="node8" href="$de/d90/adrv9009_2src_2app_2headless_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title=" " alt="" coords="5,46,60,73"/>
+</map>

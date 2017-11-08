@@ -1,0 +1,10 @@
+<map id="axi_dmac_read" name="axi_dmac_read">
+<area shape="rect" id="node1" title="axi_dmac_read" alt="" coords="688,78,807,105"/>
+<area shape="rect" id="node2" href="$da/d42/axi__dmac_8h.html#a13473e9f96e23222bd07379cb4b0b0e1" title="axi_dmac_transfer" alt="" coords="500,78,640,105"/>
+<area shape="rect" id="node3" href="$d3/d39/iio__axi__adc_8h.html#ab80031f02e7a822cd46aa56cd4ca2f1b" title="Transfer data from device into RAM." alt="" coords="304,5,452,47"/>
+<area shape="rect" id="node6" href="$d7/d16/iio__axi__dac_8h.html#afe8a11373fdeb794373bff3787170ea5" title="Transfer data from RAM to device." alt="" coords="304,71,452,112"/>
+<area shape="rect" id="node8" href="$d0/dcb/ad9208_2src_2main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title=" " alt="" coords="351,137,405,163"/>
+<area shape="rect" id="node4" href="$d4/df9/iio__axi__adc__app_8h.html#a3e0ea8fd8b21fe20c886af2ec69ce4eb" title="Application for reading/writing and parameterization of axi_adc device." alt="" coords="108,17,256,43"/>
+<area shape="rect" id="node5" href="$d2/d4c/ad9361_2src_2main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="main" alt="" coords="5,45,60,71"/>
+<area shape="rect" id="node7" href="$d3/d6f/iio__axi__dac__app_8h.html#a47794d0f22d0c19e1baae72a3e52581d" title="Application for reading/writing and parameterization of axi_dac device." alt="" coords="108,71,256,98"/>
+</map>

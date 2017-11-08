@@ -1,0 +1,7 @@
+<map id="iio_register" name="iio_register">
+<area shape="rect" id="node1" title="Register interface." alt="" coords="304,81,396,108"/>
+<area shape="rect" id="node2" href="$d4/df9/iio__axi__adc__app_8h.html#a3e0ea8fd8b21fe20c886af2ec69ce4eb" title="Application for reading/writing and parameterization of axi_adc device." alt="" coords="108,5,256,32"/>
+<area shape="rect" id="node3" href="$d2/d4c/ad9361_2src_2main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="main" alt="" coords="5,56,60,83"/>
+<area shape="rect" id="node4" href="$d3/d6f/iio__axi__dac__app_8h.html#a47794d0f22d0c19e1baae72a3e52581d" title="Application for reading/writing and parameterization of axi_dac device." alt="" coords="108,107,256,133"/>
+<area shape="rect" id="node5" href="$de/d62/iio__generic__app_8h.html#a976c38e4307df1a2c6ac5d4ca807bb55" title="Application init for reading/writing and parameterization of a generic device." alt="" coords="109,157,255,184"/>
+</map>

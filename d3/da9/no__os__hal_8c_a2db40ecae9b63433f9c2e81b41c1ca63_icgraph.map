@@ -1,0 +1,5 @@
+<map id="ADIHAL_spiWriteByte" name="ADIHAL_spiWriteByte">
+<area shape="rect" id="node1" title="Performs a Single SPI write to an ADI Device." alt="" coords="216,31,371,57"/>
+<area shape="rect" id="node2" href="$d3/da9/no__os__hal_8c.html#a1572b179e6c7ecb86c7d50d561274644" title="Writes an array of SPI writes to an ADI Device." alt="" coords="5,5,168,32"/>
+<area shape="rect" id="node3" href="$d3/da9/no__os__hal_8c.html#afa9b91010b66b76980d6f69353c99c01" title="Performs a write to the specified field in a SPI register." alt="" coords="9,56,164,83"/>
+</map>

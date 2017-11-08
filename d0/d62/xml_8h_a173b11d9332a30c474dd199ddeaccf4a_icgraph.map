@@ -1,0 +1,8 @@
+<map id="xml_add_attribute" name="xml_add_attribute">
+<area shape="rect" id="node1" title=" " alt="" coords="501,31,640,57"/>
+<area shape="rect" id="node2" href="$d3/d39/iio__axi__adc_8h.html#abea73237289edd017befb3d98e506c43" title="Get xml corresponding to an &quot;axi_adc&quot; device." alt="" coords="304,5,453,32"/>
+<area shape="rect" id="node5" href="$d7/d16/iio__axi__dac_8h.html#ac1bb7510666dcf84aba5cc59bc5e7c18" title="Get an axi_dac xml." alt="" coords="304,56,453,83"/>
+<area shape="rect" id="node3" href="$d4/df9/iio__axi__adc__app_8h.html#a3e0ea8fd8b21fe20c886af2ec69ce4eb" title="Application for reading/writing and parameterization of axi_adc device." alt="" coords="108,5,256,32"/>
+<area shape="rect" id="node4" href="$d2/d4c/ad9361_2src_2main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="main" alt="" coords="5,31,60,57"/>
+<area shape="rect" id="node6" href="$d3/d6f/iio__axi__dac__app_8h.html#a47794d0f22d0c19e1baae72a3e52581d" title="Application for reading/writing and parameterization of axi_dac device." alt="" coords="108,56,256,83"/>
+</map>

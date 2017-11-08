@@ -1,0 +1,32 @@
+<map id="ad9361_debugfs_entry" name="ad9361_debugfs_entry">
+<area shape="rect" id="node1" title=" " alt="" coords="937,524,1105,551"/>
+<area shape="rect" id="node2" href="$dc/d9b/structad9361__rf__phy.html" title=" " alt="" coords="688,592,804,619"/>
+<area shape="rect" id="node4" href="$d4/d88/structaxiadc__state.html" title=" " alt="" coords="970,595,1073,621"/>
+<area shape="rect" id="node24" href="$d4/d18/structrefclk__scale.html" title=" " alt="" coords="973,705,1069,732"/>
+<area shape="rect" id="node3" href="$d5/dd3/structaxi__adc.html" title=" " alt="" coords="371,355,442,381"/>
+<area shape="rect" id="node5" href="$d6/df4/structad9361__phy__platform__data.html" title=" " alt="" coords="308,301,505,328"/>
+<area shape="rect" id="node6" href="$de/d4e/structrssi__control.html" title=" " alt="" coords="41,64,136,91"/>
+<area shape="rect" id="node7" href="$d1/d72/structelna__control.html" title=" " alt="" coords="39,115,139,141"/>
+<area shape="rect" id="node8" href="$d3/d6f/structgpio__init__param.html" title="Structure holding the parameters for GPIO initialization." alt="" coords="27,188,151,215"/>
+<area shape="rect" id="node9" href="$dc/dd5/structtx__monitor__control.html" title=" " alt="" coords="17,239,160,265"/>
+<area shape="rect" id="node10" href="$da/d41/structauxadc__control.html" title=" " alt="" coords="29,289,148,316"/>
+<area shape="rect" id="node11" href="$df/d44/structauxdac__control.html" title=" " alt="" coords="29,340,148,367"/>
+<area shape="rect" id="node12" href="$d8/dec/structport__control.html" title=" " alt="" coords="39,391,138,417"/>
+<area shape="rect" id="node13" href="$dc/d7e/structctrl__outs__control.html" title=" " alt="" coords="25,441,153,468"/>
+<area shape="rect" id="node14" href="$de/dd7/structgpo__control.html" title=" " alt="" coords="40,492,137,519"/>
+<area shape="rect" id="node15" href="$d7/d41/structgain__control.html" title=" " alt="" coords="39,13,139,40"/>
+<area shape="rect" id="node16" href="$d4/ddc/structaxi__dmac.html" title=" " alt="" coords="365,456,448,483"/>
+<area shape="rect" id="node17" href="$df/d9e/structaxi__adc__init.html" title=" " alt="" coords="359,507,455,533"/>
+<area shape="rect" id="node18" href="$d1/de1/structaxi__dac__init.html" title=" " alt="" coords="359,635,455,661"/>
+<area shape="rect" id="node19" href="$de/dd2/structaxi__dac__channel.html" title=" " alt="" coords="25,661,152,688"/>
+<area shape="rect" id="node30" href="$db/d56/structaxi__dac.html" title=" " alt="" coords="371,685,442,712"/>
+<area shape="rect" id="node20" href="$d7/de1/structad9361__fastlock.html" title=" " alt="" coords="343,787,470,813"/>
+<area shape="rect" id="node21" href="$de/d55/structad9361__fastlock__entry.html" title=" " alt="" coords="5,787,172,813"/>
+<area shape="rect" id="node22" href="$d5/dc1/structaxiadc__converter.html" title=" " alt="" coords="341,837,472,864"/>
+<area shape="rect" id="node23" href="$d1/dc5/structaxiadc__chip__info.html" title=" " alt="" coords="25,837,152,864"/>
+<area shape="rect" id="node25" href="$d7/d87/structspi__desc.html" title="Structure holding SPI descriptor." alt="" coords="368,888,445,915"/>
+<area shape="rect" id="node26" href="$da/d59/structrx__gain__info.html" title=" " alt="" coords="357,736,456,763"/>
+<area shape="rect" id="node27" href="$d1/d35/structclk__onecell__data.html" title=" " alt="" coords="343,405,470,432"/>
+<area shape="rect" id="node28" href="$d5/d6b/structclk.html" title=" " alt="" coords="69,557,108,584"/>
+<area shape="rect" id="node29" href="$d7/dba/structgpio__desc.html" title="Structure holding the GPIO descriptor." alt="" coords="363,251,450,277"/>
+</map>

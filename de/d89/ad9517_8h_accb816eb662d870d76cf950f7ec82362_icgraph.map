@@ -1,0 +1,8 @@
+<map id="ad9517_read" name="ad9517_read">
+<area shape="rect" id="node1" title="Reads data from a register." alt="" coords="384,81,491,108"/>
+<area shape="rect" id="node2" href="$de/d89/ad9517_8h.html#a1a8ea84bf7f5359de3ffadf2dce5bc03" title="Sets the frequency on the specified channel." alt="" coords="181,5,321,32"/>
+<area shape="rect" id="node3" href="$de/d89/ad9517_8h.html#adc5b854ba12c661a229b379a91195f51" title="Sets the phase on the specified channel." alt="" coords="193,56,309,83"/>
+<area shape="rect" id="node4" href="$de/d89/ad9517_8h.html#af14d846dbf6b3655d02980c3e8e31f45" title="Sets the power mode of the specified channel." alt="" coords="172,107,331,133"/>
+<area shape="rect" id="node5" href="$de/d89/ad9517_8h.html#afb845e0029fe1cdfdf27e311d3cc82db" title="Sets the VCO frequency." alt="" coords="167,157,336,184"/>
+<area shape="rect" id="node6" href="$de/d89/ad9517_8h.html#a238147bdb3fc2a80bbcf749657f5db3b" title="Initializes the AD9517." alt="" coords="5,157,119,184"/>
+</map>

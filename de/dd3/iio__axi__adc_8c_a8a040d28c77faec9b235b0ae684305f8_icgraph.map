@@ -1,0 +1,5 @@
+<map id="iio_axi_adc_read_dev" name="iio_axi_adc_read_dev">
+<area shape="rect" id="node1" title="Read chunk of data from RAM to pbuf. Call &quot;iio_axi_adc_transfer_dev_to_mem&quot; first...." alt="" coords="304,5,461,32"/>
+<area shape="rect" id="node2" href="$d4/df9/iio__axi__adc__app_8h.html#a3e0ea8fd8b21fe20c886af2ec69ce4eb" title="Application for reading/writing and parameterization of axi_adc device." alt="" coords="108,5,256,32"/>
+<area shape="rect" id="node3" href="$d2/d4c/ad9361_2src_2main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="main" alt="" coords="5,5,60,32"/>
+</map>

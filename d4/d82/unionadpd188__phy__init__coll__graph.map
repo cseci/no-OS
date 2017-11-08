@@ -1,0 +1,5 @@
+<map id="adpd188_phy_init" name="adpd188_phy_init">
+<area shape="rect" id="node1" title="Communication physical protocol initialization structure. Can be I2C or SPI." alt="" coords="65,95,199,121"/>
+<area shape="rect" id="node2" href="$d4/d45/structi2c__init__param.html" title="Structure holding the parameters for I2C initialization." alt="" coords="5,5,120,32"/>
+<area shape="rect" id="node3" href="$d3/d31/structspi__init__param.html" title="Structure holding the parameters for SPI initialization." alt="" coords="144,5,259,32"/>
+</map>

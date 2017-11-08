@@ -1,0 +1,4 @@
+<map id="iio_axi_adc_app_init" name="iio_axi_adc_app_init">
+<area shape="rect" id="node1" title="Application for reading/writing and parameterization of axi_adc device." alt="" coords="108,5,256,32"/>
+<area shape="rect" id="node2" href="$d2/d4c/ad9361_2src_2main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="main" alt="" coords="5,5,60,32"/>
+</map>

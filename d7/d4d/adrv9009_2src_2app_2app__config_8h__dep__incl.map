@@ -1,0 +1,17 @@
+<map id="projects/adrv9009/src/app/app_config.h" name="projects/adrv9009/src/app/app_config.h">
+<area shape="rect" id="node1" title="Config file for ADRV9009 project." alt="" coords="316,5,476,47"/>
+<area shape="rect" id="node2" href="$db/d2b/ad9371_2src_2devices_2adi__hal_2parameters_8h.html" title="Platform dependent parameters." alt="" coords="57,95,271,136"/>
+<area shape="rect" id="node4" href="$dc/d2a/app__clocking_8c.html" title="Clock setup and initialization routines." alt="" coords="224,184,384,225"/>
+<area shape="rect" id="node5" href="$de/d90/adrv9009_2src_2app_2headless_8c.html" title="Contains example code for user integration with their application." alt="" coords="408,184,568,225"/>
+<area shape="rect" id="node6" href="$dd/d8d/adrv9009_2src_2devices_2adi__hal_2parameters_8h.html" title="Platform dependent parameters." alt="" coords="965,95,1179,136"/>
+<area shape="rect" id="node3" href="$d8/d19/common_8c.html" title="Contains Mykonos API common wrapper functions for user hardware platform drivers." alt="" coords="5,184,200,225"/>
+<area shape="rect" id="node7" href="$d0/dda/iio__axi__adc__app_8c.html" title="Implementation of iio_axi_adc_app. This application instantiates iio_axi_adc and iio_axi_dac devices,..." alt="" coords="592,184,720,225"/>
+<area shape="rect" id="node8" href="$dc/d2e/iio__axi__dac__app_8c.html" title="Implementation of iio_axi_dac_app. This application instantiates iio_axi_adc and iio_axi_dac devices,..." alt="" coords="744,184,872,225"/>
+<area shape="rect" id="node9" href="$de/d4d/altera_2gpio_8c.html" title="Implementation of Altera GPIO Generic Driver." alt="" coords="897,184,1061,225"/>
+<area shape="rect" id="node10" href="$d6/d81/altera_2spi_8c.html" title="Implementation of Altera SPI Generic Driver." alt="" coords="1085,184,1249,225"/>
+<area shape="rect" id="node11" href="$d2/d89/ad9371_2src_2app_2headless_8c.html" title="Implementation of Main Function." alt="" coords="1273,184,1421,225"/>
+<area shape="rect" id="node12" href="$d3/d1e/app__jesd_8c.html" title="JESD setup and initialization routines." alt="" coords="1445,184,1605,225"/>
+<area shape="rect" id="node13" href="$d0/d51/app__talise_8c.html" title="Talise initialization and control routines." alt="" coords="1629,184,1789,225"/>
+<area shape="rect" id="node14" href="$d9/dc0/app__transceiver_8c.html" title="FPGA XCVR setup and initialization routines." alt="" coords="1814,184,1981,225"/>
+<area shape="rect" id="node15" href="$d3/da9/no__os__hal_8c.html" title="No&#45;OS Hardware Abstraction Layer." alt="" coords="2005,184,2208,225"/>
+</map>

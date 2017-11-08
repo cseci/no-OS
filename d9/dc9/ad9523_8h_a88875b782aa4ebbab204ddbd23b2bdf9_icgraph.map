@@ -1,0 +1,8 @@
+<map id="ad9523_spi_read" name="ad9523_spi_read">
+<area shape="rect" id="node1" title="Reads the value of the selected register." alt="" coords="377,107,508,133"/>
+<area shape="rect" id="node2" href="$d9/dfb/ad9523_8c.html#ac41178e43b273796df05a276108302c9" title="Updates the AD9523 configuration." alt="" coords="182,5,314,32"/>
+<area shape="rect" id="node3" href="$d9/dc9/ad9523_8h.html#af26d0ef1d15ebc7f6ea3f4dc5317e3c7" title="Setup the AD9523 device." alt="" coords="5,107,119,133"/>
+<area shape="rect" id="node4" href="$d9/dc9/ad9523_8h.html#aee8468725cd1a4754b570e2afccf9b72" title="Updates the AD9523 configuration." alt="" coords="189,107,307,133"/>
+<area shape="rect" id="node5" href="$d9/dc9/ad9523_8h.html#a67f744ae8790aa813acaf25574620ea4" title="Updates the AD9523 configuration." alt="" coords="195,157,301,184"/>
+<area shape="rect" id="node6" href="$d9/dc9/ad9523_8h.html#ac425d68f7e56d755004f9bc503c41967" title="Sets the clock provider for selected channel." alt="" coords="167,208,329,235"/>
+</map>

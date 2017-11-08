@@ -1,0 +1,63 @@
+<map id="include/util.h" name="include/util.h">
+<area shape="rect" id="node1" title="Implementation of utility functions." alt="" coords="3357,5,3460,32"/>
+<area shape="rect" id="node2" href="$da/d43/iio_8c.html" title="Implementation of iio. This module implements read/write ops, required by libtinyiiod and further cal..." alt="" coords="1309,95,1375,121"/>
+<area shape="rect" id="node3" href="$dc/dd4/iio__ad9361_8c.html" title="Implementation of iio_ad9361 This module is a wrapper over &quot;ad9361_api&quot;, and it is used by &quot;iio&quot;." alt="" coords="1399,87,1525,129"/>
+<area shape="rect" id="node4" href="$de/dd3/iio__axi__adc_8c.html" title="Implementation of iio_axi_adc. This module is a wrapper over &quot;axi_adc&quot;, and it is used by &quot;iio&quot;." alt="" coords="2007,184,2133,225"/>
+<area shape="rect" id="node5" href="$d3/d25/iio__axi__dac_8c.html" title="Implementation of iio_axi_dac. This module is a wrapper over &quot;axi_dac&quot;, and it is used by &quot;iio&quot;." alt="" coords="1160,184,1287,225"/>
+<area shape="rect" id="node6" href="$db/d72/adxl372_8h.html" title="Header file for adxl372 Driver." alt="" coords="2779,87,2935,129"/>
+<area shape="rect" id="node10" href="$db/ddb/ad6676_8h.html" title="Header file of AD6676 Driver." alt="" coords="2959,87,3103,129"/>
+<area shape="rect" id="node12" href="$d9/d35/adc_2ad9208_2ad9208__api_2api__def_8h.html" title="API definitions header file." alt="" coords="1549,87,1711,129"/>
+<area shape="rect" id="node13" href="$d5/de5/ad9208__api_8h.html" title=" " alt="" coords="845,184,1036,225"/>
+<area shape="rect" id="node23" href="$dd/d1a/axi__adc__core_8c.html" title="Driver for the Analog Devices AXI&#45;ADC&#45;CORE module." alt="" coords="2733,184,2919,225"/>
+<area shape="rect" id="node24" href="$d2/d06/axi__adc__core_8h.html" title="Driver for the Analog Devices AXI&#45;ADC&#45;CORE module." alt="" coords="2415,87,2602,129"/>
+<area shape="rect" id="node28" href="$da/d45/ad9361__api_8c.html" title="Implementation of AD9361 API Driver." alt="" coords="2943,184,3091,225"/>
+<area shape="rect" id="node29" href="$d4/dcf/ad9361__conv_8c.html" title="Implementation of AD9361 Conv Driver." alt="" coords="3115,184,3263,225"/>
+<area shape="rect" id="node31" href="$d2/d89/ad9371_2src_2app_2headless_8c.html" title="Implementation of Main Function." alt="" coords="2157,184,2305,225"/>
+<area shape="rect" id="node32" href="$de/d90/adrv9009_2src_2app_2headless_8c.html" title="Contains example code for user integration with their application." alt="" coords="2330,184,2490,225"/>
+<area shape="rect" id="node33" href="$da/d39/axi__dac__core_8c.html" title="Driver for the Analog Devices AXI&#45;DAC&#45;CORE module." alt="" coords="3128,87,3313,129"/>
+<area shape="rect" id="node34" href="$da/d42/axi__dmac_8h.html" title="Driver for the Analog Devices AXI&#45;DMAC core." alt="" coords="1837,87,1981,129"/>
+<area shape="rect" id="node38" href="$dd/d44/clk__altera__a10__fpll_8c.html" title="Driver for the Altera FPLL." alt="" coords="3337,80,3480,136"/>
+<area shape="rect" id="node39" href="$d7/d0d/clk__axi__clkgen_8c.html" title="Driver for the Analog Devices AXI CLKGEN." alt="" coords="3503,87,3703,129"/>
+<area shape="rect" id="node40" href="$de/db3/altera__a10__atx__pll_8c.html" title="Driver for the Altera ATX PLL dynamic reconfiguration." alt="" coords="3727,87,3903,129"/>
+<area shape="rect" id="node41" href="$d4/de6/altera__a10__cdr__pll_8c.html" title="Driver for the Altera CDR/CMU PLL dynamic reconfiguration." alt="" coords="3927,87,4103,129"/>
+<area shape="rect" id="node42" href="$d1/df0/altera__adxcvr_8c.html" title="Driver for the Altera ADXCVR Configuration." alt="" coords="4127,87,4303,129"/>
+<area shape="rect" id="node43" href="$dd/d0a/axi__adxcvr_8c.html" title="Driver for the ADI AXI&#45;ADXCVR Module." alt="" coords="4327,87,4503,129"/>
+<area shape="rect" id="node44" href="$d3/d82/axi__jesd204__rx_8c.html" title="Driver for the Analog Devices AXI&#45;JESD204&#45;RX peripheral." alt="" coords="4527,87,4703,129"/>
+<area shape="rect" id="node45" href="$d2/de7/axi__jesd204__tx_8c.html" title="Driver for the Analog Devices AXI&#45;JESD204&#45;TX peripheral." alt="" coords="4727,87,4903,129"/>
+<area shape="rect" id="node46" href="$d6/dae/xilinx__transceiver_8c.html" title="Driver for the Xilinx High&#45;speed transceiver dynamic reconfiguration." alt="" coords="4927,87,5103,129"/>
+<area shape="rect" id="node47" href="$da/d28/_a_d917x_8h.html" title="AD917X API interface header file." alt="" coords="5127,87,5293,129"/>
+<area shape="rect" id="node55" href="$d3/d9f/drivers_2frequency_2ad9528_2ad9528_8c.html" title="Implementation of AD9528 Driver." alt="" coords="5317,87,5501,129"/>
+<area shape="rect" id="node56" href="$dd/d03/hmc7044_8c.html" title="Implementation of HMC7044 Driver." alt="" coords="5525,87,5721,129"/>
+<area shape="rect" id="node57" href="$dc/d7f/ad9361_8c.html" title="Implementation of AD9361 Driver." alt="" coords="5745,87,5893,129"/>
+<area shape="rect" id="node58" href="$dc/d2a/app__clocking_8c.html" title="Clock setup and initialization routines." alt="" coords="5918,87,6078,129"/>
+<area shape="rect" id="node59" href="$d3/d1e/app__jesd_8c.html" title="JESD setup and initialization routines." alt="" coords="6102,87,6262,129"/>
+<area shape="rect" id="node60" href="$d0/d51/app__talise_8c.html" title="Talise initialization and control routines." alt="" coords="6286,87,6446,129"/>
+<area shape="rect" id="node61" href="$d9/dc0/app__transceiver_8c.html" title="FPGA XCVR setup and initialization routines." alt="" coords="6471,87,6637,129"/>
+<area shape="rect" id="node7" href="$d9/d98/adxl372_8c.html" title="Implementation of adxl372 Core Driver." alt="" coords="3287,184,3443,225"/>
+<area shape="rect" id="node8" href="$df/d61/adxl372__i2c_8c.html" title="Implementation of adxl372 I2C Driver." alt="" coords="3467,184,3623,225"/>
+<area shape="rect" id="node9" href="$d4/dc0/adxl372__spi_8c.html" title="Implementation of adxl372 SPI Driver." alt="" coords="3647,184,3803,225"/>
+<area shape="rect" id="node11" href="$db/dbb/ad6676_8c.html" title="Implementation of AD6676 Driver." alt="" coords="3827,184,3971,225"/>
+<area shape="rect" id="node22" href="$d1/dcf/ad9208__reg_8h.html" title="AD9208 SPI Register Definition Header File." alt="" coords="622,184,814,225"/>
+<area shape="rect" id="node14" href="$d6/d77/ad9208_8h.html" title="Header file of AD9208 Driver." alt="" coords="441,281,585,322"/>
+<area shape="rect" id="node17" href="$d8/da9/ad9208__adc__api_8c.html" title="Contains AD9208 APIs for ADC, DDC, NCO configuration and control." alt="" coords="609,281,827,322"/>
+<area shape="rect" id="node18" href="$dc/de2/ad9208__api_8c.html" title="Contains AD9208 APIs for ADC Chip Level Configuration and Control." alt="" coords="851,281,1041,322"/>
+<area shape="rect" id="node19" href="$d5/d9a/ad9208__jesd__api_8c.html" title="Contains AD9208 APIs for ADC JESD Configuration and Control." alt="" coords="1065,281,1288,322"/>
+<area shape="rect" id="node20" href="$d1/d91/ad9208__reg_8c.html" title="Contains AD9208 APIs for ADC Register Configuration and Control." alt="" coords="5,281,196,322"/>
+<area shape="rect" id="node21" href="$dc/d6e/ad9208__signal__monitor__api_8c.html" title="Contains AD9208 APIs for Signal Monitoring Features." alt="" coords="220,273,416,329"/>
+<area shape="rect" id="node15" href="$de/d44/ad9208_8c.html" title="Implementation of AD9208 Driver." alt="" coords="441,377,585,419"/>
+<area shape="rect" id="node16" href="$d0/dcb/ad9208_2src_2main_8c.html" title="Implementation of Main Function." alt="" coords="1251,377,1399,419"/>
+<area shape="rect" id="node25" href="$d4/df9/iio__axi__adc__app_8h.html" title="Header file of iio_axi_adc_app." alt="" coords="1682,184,1810,225"/>
+<area shape="rect" id="node27" href="$d8/d74/ad9265_8c.html" title="Implementation of AD9265 Driver." alt="" coords="2514,184,2658,225"/>
+<area shape="rect" id="node30" href="$d2/d4c/ad9361_2src_2main_8c.html" title="Implementation of Main Function." alt="" coords="1835,184,1983,225"/>
+<area shape="rect" id="node26" href="$d0/dda/iio__axi__adc__app_8c.html" title="Implementation of iio_axi_adc_app. This application instantiates iio_axi_adc and iio_axi_dac devices,..." alt="" coords="1682,281,1810,322"/>
+<area shape="rect" id="node35" href="$d3/d6f/iio__axi__dac__app_8h.html" title="Header file of iio_axi_dac_app." alt="" coords="1362,184,1490,225"/>
+<area shape="rect" id="node37" href="$d2/d89/axi__dmac_8c.html" title="Driver for the Analog Devices AXI&#45;DMAC core." alt="" coords="1514,184,1658,225"/>
+<area shape="rect" id="node36" href="$dc/d2e/iio__axi__dac__app_8c.html" title="Implementation of iio_axi_dac_app. This application instantiates iio_axi_adc and iio_axi_dac devices,..." alt="" coords="1362,281,1490,322"/>
+<area shape="rect" id="node48" href="$d9/da0/ad9172_8h.html" title="Header file of ad9172 Driver." alt="" coords="4721,184,4864,225"/>
+<area shape="rect" id="node51" href="$de/da1/ad917x__api_8c.html" title="Contains AD917x APIs for DAC configuration and control." alt="" coords="4889,184,5075,225"/>
+<area shape="rect" id="node52" href="$d4/dad/ad917x__jesd__api_8c.html" title="Contains AD917x APIs for JESD configuration and control." alt="" coords="5100,184,5320,225"/>
+<area shape="rect" id="node53" href="$d0/d33/ad917x__nco__api_8c.html" title="Contains AD917x APIs for NCO configuration and control." alt="" coords="5344,184,5561,225"/>
+<area shape="rect" id="node54" href="$d9/d2a/ad917x__reg_8c.html" title="Contains AD917x APIs for SPI Register configuration and control." alt="" coords="5586,184,5775,225"/>
+<area shape="rect" id="node49" href="$da/dc7/ad9172_8c.html" title="Implementation of AD9172 Driver." alt="" coords="4636,281,4779,322"/>
+<area shape="rect" id="node50" href="$d1/d01/ad9172_2src_2main_8c.html" title="Implementation of Main Function." alt="" coords="4803,281,4951,322"/>
+</map>

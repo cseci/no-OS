@@ -1,0 +1,5 @@
+<map id="adxl345_init_param" name="adxl345_init_param">
+<area shape="rect" id="node1" title="Structure holding the parameters for ADXL345 device initialization." alt="" coords="59,95,205,121"/>
+<area shape="rect" id="node2" href="$d4/d45/structi2c__init__param.html" title="Structure holding the parameters for I2C initialization." alt="" coords="5,5,120,32"/>
+<area shape="rect" id="node3" href="$d3/d31/structspi__init__param.html" title="Structure holding the parameters for SPI initialization." alt="" coords="144,5,259,32"/>
+</map>

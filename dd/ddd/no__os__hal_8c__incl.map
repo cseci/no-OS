@@ -1,0 +1,14 @@
+<map id="projects/adrv9009/src/devices/adi_hal/no_os_hal.c" name="projects/adrv9009/src/devices/adi_hal/no_os_hal.c">
+<area shape="rect" id="node1" title="No&#45;OS Hardware Abstraction Layer." alt="" coords="209,5,411,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,95,71,121"/>
+<area shape="rect" id="node3" href="$d0/dca/adi__hal_8h.html" title="Contains Talise ADI HAL function prototypes type definitions for adi_hal.c." alt="" coords="95,95,173,121"/>
+<area shape="rect" id="node6" href="$dd/d8d/adrv9009_2src_2devices_2adi__hal_2parameters_8h.html" title="Platform dependent parameters." alt="" coords="539,95,649,121"/>
+<area shape="rect" id="node9" href="$da/d87/spi_8h.html" title="Header file of SPI Interface." alt="" coords="284,95,336,121"/>
+<area shape="rect" id="node10" href="$d6/d7c/gpio_8h.html" title="Header file of GPIO Interface." alt="" coords="198,95,259,121"/>
+<area shape="rect" id="node11" href="$da/d41/error_8h.html" title="Error codes definition." alt="" coords="451,95,515,121"/>
+<area shape="rect" id="node12" href="$dd/dee/delay_8h.html" title="Header file of Delay functions." alt="" coords="361,95,427,121"/>
+<area shape="rect" id="node4" title=" " alt="" coords="235,169,305,196"/>
+<area shape="rect" id="node5" title=" " alt="" coords="97,169,171,196"/>
+<area shape="rect" id="node7" title=" " alt="" coords="476,169,579,196"/>
+<area shape="rect" id="node8" title=" " alt="" coords="603,169,719,196"/>
+</map>

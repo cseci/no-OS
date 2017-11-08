@@ -1,0 +1,10 @@
+<map id="AD9361_InitParam" name="AD9361_InitParam">
+<area shape="rect" id="node1" title=" " alt="" coords="318,228,458,255"/>
+<area shape="rect" id="node2" href="$df/d9e/structaxi__adc__init.html" title=" " alt="" coords="5,95,101,121"/>
+<area shape="rect" id="node3" href="$d5/d66/structaxi__dmac__init.html" title=" " alt="" coords="125,95,235,121"/>
+<area shape="rect" id="node4" href="$d1/de1/structaxi__dac__init.html" title=" " alt="" coords="259,95,355,121"/>
+<area shape="rect" id="node5" href="$de/dd2/structaxi__dac__channel.html" title=" " alt="" coords="243,5,370,32"/>
+<area shape="rect" id="node6" href="$d3/d6f/structgpio__init__param.html" title="Structure holding the parameters for GPIO initialization." alt="" coords="379,95,503,121"/>
+<area shape="rect" id="node7" href="$d7/dba/structgpio__desc.html" title="Structure holding the GPIO descriptor." alt="" coords="527,95,614,121"/>
+<area shape="rect" id="node8" href="$d7/d87/structspi__desc.html" title="Structure holding SPI descriptor." alt="" coords="692,95,769,121"/>
+</map>
